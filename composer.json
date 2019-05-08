@@ -1,5 +1,5 @@
 {
-    "name": "ethercreative/yii2-login-attempts-behavior",
+    "name": "floor12/yii2-login-attempts-behavior",
     "description": "Disable login after multiple failures.",
     "keywords": ["yii2", "behavior"],
     "require": {
